@@ -1,3 +1,34 @@
+# Laporan Praktikum konversi_suhu_list
+
+Nama : Karmila Novi Arfiana
+
+Kelas : TI 3C
+
+NIM : 2041720073
+
+Absen : 12
+
+## HASIL
+## 1. Tampilan Awal
+
+![EMPTY ACTIVITY](ss/1.jpg)
+
+## 2. Memasukkan suhu dalam celsius dan mengkonversinya dengan kelvin
+
+![EMPTY ACTIVITY](ss/2.jpg)
+
+## 3. Memasukkan suhu dalam celsius dan mengkonversinya dengan reamur
+
+![EMPTY ACTIVITY](ss/3.jpg)
+
+## 4. Memasukkan angka suhu dalam celsius dan mengkonversinya dengan fahrenheit
+
+![EMPTY ACTIVITY](ss/4.jpg)
+
+## 5. Dan juga terdapat riwayat yang telah kita lakukkan
+
+![EMPTY ACTIVITY](ss/5.jpg)
+
 # konversi_suhu_list
 
 A new Flutter project.
